@@ -1,0 +1,12 @@
+#--------------------------------------------------------------------------#
+| This is simple concept of tcp protocol.                                  |
+|                                                                          |
+| The tcp protocol is more capable than the udp protocol, it is finer      |
+| and more stable and more secure. As for the concept of usage,            |
+| you can use it according to the situation you want to use, such as       |
+| Your friend is in a different place and you are in a different place.    |
+| That is not the same as your friend, You can use this code to implement  |
+| it as a chatting app with neither Internet nor Internet access           |
+| (API required to communicate between servers).                           |
+| (Author: Stringtheory)                                                   |
+#--------------------------------------------------------------------------#

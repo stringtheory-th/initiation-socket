@@ -1,0 +1,18 @@
+#--------------------------------------------------------------------------#
+| @This is a simple concept of udp protocol.                               |
+|                                                                          |
+| You can code the messaging operation between receiver and sender         |
+| through the use of udp protocol, If so, let's say there is an event      |
+| that requires this app concept think that the internet within            |
+| the company is not working. So we installed this code on the other       |
+| sender machine and the other address machine as the receiver. This time  |
+| we will be able to send messages without the Internet. But the same      |
+| connection is required, such as being on the same network,               |
+| but that network does not have a WAN. But if there is a WAN, it means    |
+| that this concept of application is over. Because we will be able to use |
+| the Internet and we will go to use Facebook or WhatsApp as before :D     |
+|                                                                          |
+| (Author: Stringtheory)                                                   |
+#--------------------------------------------------------------------------#
+
+

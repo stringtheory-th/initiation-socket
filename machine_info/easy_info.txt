@@ -1,0 +1,8 @@
+#-----------------------------------------------------------------------#
+| @You can apply it to various applications. Get that about the machine |
+|                                                                       |
+| This code is just the beginning to learn to write Socket Programming. |
+| It is the foundation that you need to learn if you want to become a   |
+| Network Engineer who writes programs.                                 |
+| (Author: Stringtheory)                                                |
+#-----------------------------------------------------------------------#
