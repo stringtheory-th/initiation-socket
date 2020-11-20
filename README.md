@@ -8,7 +8,7 @@ This repository is the basic code for socket programming.
 There are two main methods of implementation there are two main ways to apply the code to further use or study.
 
 * **Direct Download:** You can download them directly through our Repository page.
-* **Github Software:** You will need to download Github to your computer. After that, open Terminal and run the command ``` git clone --depth 1 https://github.com/stringtheory-th/Initiation-socket.git socket-dev ```
+* **Github Software:** You will need to download Github to your computer. After that, open Terminal and run the command ``` git clone --depth 1 https://github.com/stringtheory-th/initiation-socket.git socket-dev ```
 
 ## Libraries related to this use
 In our code we use a library that is a low-level networking interface that is perfect for practice.
